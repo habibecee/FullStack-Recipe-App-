@@ -56,6 +56,6 @@ Prerequisites
 Installation & Setup
 1. Clone the repository: git clone [https://github.com/YOUR-USERNAME/recipe-app.git](https://github.com/YOUR-USERNAME/recipe-app.git) cd recipe-app
 2. Start the Backend Server (api): cd api npm install npm start # or npm run dev
-3. Start the Frontend Application (client): Open a new terminal tab/window in the project root: cd client npm install npm start
+3. Start the Frontend Application (client): Open a new terminal tab/window in the project root: cd client npm install npm run dev
 📜 License
 Distributed under the MIT License. See LICENSE for more information.
